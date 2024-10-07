@@ -83,6 +83,7 @@ runme:
 ## Status
 
 - Python <br/>
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/230bf5a3036745cea086a172ebb80ad9)](https://app.codacy.com/gh/Bryan-Roe/semantic-kernel?utm_source=github.com&utm_medium=referral&utm_content=Bryan-Roe/semantic-kernel&utm_campaign=Badge_Grade)
   [![Python package](https://img.shields.io/pypi/v/semantic-kernel)](https://pypi.org/project/semantic-kernel/)
 - .NET <br/>
   [![Nuget package](https://img.shields.io/nuget/vpre/Microsoft.SemanticKernel)](https://www.nuget.org/packages/Microsoft.SemanticKernel/)[![dotnet Docker](https://github.com/microsoft/semantic-kernel/actions/workflows/dotnet-ci-docker.yml/badge.svg?branch=main)](https://github.com/microsoft/semantic-kernel/actions/workflows/dotnet-ci-docker.yml)[![dotnet Windows](https://github.com/microsoft/semantic-kernel/actions/workflows/dotnet-ci-windows.yml/badge.svg?branch=main)](https://github.com/microsoft/semantic-kernel/actions/workflows/dotnet-ci-windows.yml)
